@@ -55,10 +55,11 @@
         const MAX_NODE_SIZE = 12;
         const ACTIVE_RADIUS_FACTOR = 1.5;
         const STROKE = 1;
-        const FONT_SIZE = 16;
+        const FONT_SIZE = 12;
         const TICKS = 200;
         const FONT_BASELINE = 40;
         const MAX_LABEL_LENGTH = 50;
+        const COLLISION_FORCE = 60;
 
         const graphData = {% include notes_graph.json %}
         let nodesData = graphData.nodes;
@@ -173,12 +174,12 @@
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.8);
+        element.setAttribute("height", window.innerHeight * 0.3);
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
           element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight);
+          element.setAttribute("height", window.innerHeight * 0.3);
         };
 
         window.onresize = reportWindowSize;
@@ -201,7 +202,7 @@
               .distance(70)
           )
           .force("center", d3.forceCenter(width / 2, height / 2))
-          .force("collision", d3.forceCollide().radius(80))
+          .force("collision", d3.forceCollide().radius(COLLISION_FORCE))
           .stop();
 
         const g = svg.append("g");
