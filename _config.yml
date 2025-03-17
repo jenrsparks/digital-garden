@@ -29,6 +29,7 @@ sass:
 
 collections:
   notes:
+    label: notes
     output: true
     permalink: /:slug
 
@@ -41,3 +42,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "_notes/cocktails/**/*.md"
+    values:
+      layout: "cocktail"
+      category: Cocktails

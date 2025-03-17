@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <nav id="title-container">{% include nav.html %}</nav>
+    <div class="wrapper">
+      <main id="home-container">
+        <content>
+          {{ content }}
+        </content>
+        <side>
+          <h3 style="margin-bottom: 1em">Projects</h3>
+          <ul>
+            {% assign all_categories = site.notes | map: "category" | uniq %}
+            {% for i in all_categories %}
+            <!-- <li>{{ i }}</li> -->
+              <a class="internal-link" href="{{ site.baseurl }}{{ i | downcase }}">{{ i }}</a>
+
+            {% endfor %}
+          </ul>
+
+        </side>
+      </main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+  </body>
+</html>

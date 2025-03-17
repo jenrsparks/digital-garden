@@ -63,7 +63,20 @@
 
         const graphData = {% include notes_graph.json %}
         let nodesData = graphData.nodes;
+        console.log("original nodes: " + nodesData.length)
         let linksData = graphData.edges;
+    
+        /* Optional filtering logic */
+        {% if include.category %}
+          console.log("{{include.category}}")
+          let notesToFilter = {{ site.notes | where: "category", include.category | map: "title" | sort | prepend: "'" | append: "'" | join ","}};
+          console.log("filter: " + notesToFilter)
+          nodesData = nodesData.filter ((node) => notesToFilter.includes(node.label))
+          let nodeIdsToKeep = nodesData.filter((node) => notesToFilter.includes(node.label)).map((node) => node.id)
+          console.log("filtered nodes: " + nodesData.length + " = " + nodeIdsToKeep)
+          linksData = linksData.filter((edge) => nodeIdsToKeep.includes(edge.source))
+                               .filter((edge) => nodeIdsToKeep.includes(edge.target))
+        {% endif %}
 
         const nodeSize = {};
 

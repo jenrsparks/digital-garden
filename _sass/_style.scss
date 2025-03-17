@@ -3,7 +3,7 @@ $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
-$color-pop-bg: #f5f7ff;
+$color-pop-bg: #e7ecff;
 
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
@@ -123,16 +123,16 @@ nav {
   }
 }
 
-#title-container {
+#home-container {
   display: grid;
   grid-gap: 2em;
   grid-template-areas:
-    "titleblock"
-    "titleside";
+    "content"
+    "side";
 
   @media (min-width: 700px) {
     grid-template-columns: 3fr 1fr;
-    grid-template-areas: "titleblock titleside";
+    grid-template-areas: "content side";
   }
 }
 
