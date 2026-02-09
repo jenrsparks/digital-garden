@@ -10,37 +10,37 @@ exclude_page: true
 - **Defining characteristics:** Sweetener \| Lime Juice \| Rum
 - **Tasting notes:** Sharp, bright, slightly viscous
 
-### The Gin Martini
+### [[Gin Martini|The Gin Martini]]
 
 - **Defining characteristics:** Vermouth \| Bitter \| Gin
 - **Tasting notes:** Bitter, smooth, slightly oily
 - **Personal notes:** I must confess, I don't have much love of gin, so the traditional martini gets away from me knowledge-wise.
 
-### The Old Fashioned
+### [[Old Fashioned|The Old Fashioned]]
 
 - **Defining characteristics:** Sweetener \| Bitters \| Bourbon
 - **Tasting notes:** Sweet, carmel-like stickiness
 
-### The Sidecar
+### [[Sidecar|The Sidecar]]
 
 - Defining characteristics: Sweetener \| Lemon Juice \| Curaçao \| Cognac
 - **Tasting notes:** 
 
-### The Whiskey Highball
+### [[Whiskey Highball|The Whiskey Highball]]
 
 - **Defining characteristics:** Seltzer \| Whiskey
 - **Tasting notes:** 
 
-### The Flip
+### [[Flip|The Flip]]
 
 - **Defining characteristics:** Sweetener \| Spice \| Egg \| Sherry
 - **Tasting notes:** 
 
+---
+
 ## Drinks Pending Recipes
 
-- [[Gin Martini]]
-- [[Corpse Reviver #2]]
-- Sazerac
+- [[Sazerac]]
 - [[Brandy Alexander]] as well as [[Jackies Brandy Alexander]]
 - [[Jack Rose]]
 - [[Caipirinha]]
@@ -64,7 +64,6 @@ exclude_page: true
 - [[White russian]]
 - [[Espresso Martini]]
 - [[Blood & Sand]]
-- [[Old Fashioned]]
 - [[Boulevardier]]
 - [[Rob Roy]]
 - [[Penicillin]]

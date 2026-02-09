@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<content>
+
+{% if page.template_parent %}
+- Template: {{ page.template_parent }}
+{% else %}
+- This is a Core Cocktail Template
+{% endif %}
+{% if page.source %}
+- Recipe Source: {{ page.source }}
+{% endif %}
+
+    {{ content }}
+</content>

@@ -3,10 +3,10 @@ title: Amaretto Sour
 source: Death & Co
 ---
 
-_Call me a bad parent, but this was our youngest daughter's first cocktail that she learned to really enjoy. It's a keeper. Don't skimp on good citrus._
+_Call me a bad parent if you want, but this was our youngest daughter's first cocktail that she learned to really enjoy. It's a keeper. Pro tip: Don't skimp on good citrus._
 
 ## Ingredients
-- 2 ounces Lazzaroni amaretto
+- 2 ounces amaretto
 - 1 ounce fresh lemon juice
 - 1/4 ounce simple (1:1) syrup
 - 1 dash Angostura bitters 

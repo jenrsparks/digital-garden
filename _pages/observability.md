@@ -1,7 +1,7 @@
 ---
 title: "Observability" 
 id: Observability
-permalink: /observability
+permalink: /o11y
 category: Observability
 navigation_include: true
 ---
