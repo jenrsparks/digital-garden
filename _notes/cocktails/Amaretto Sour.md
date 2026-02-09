@@ -3,6 +3,8 @@ title: Amaretto Sour
 source: Death & Co
 ---
 
+_Call me a bad parent, but this was our youngest daughter's first cocktail that she learned to really enjoy. It's a keeper. Don't skimp on good citrus._
+
 ## Ingredients
 - 2 ounces Lazzaroni amaretto
 - 1 ounce fresh lemon juice
@@ -14,3 +16,7 @@ source: Death & Co
 1. Shake all the ingredients with ice.
 2. Strain into a double old-fashioned glass over 1 large ice cube.
 3. Garnish with the cherry on a cocktail pick.
+
+## Variants
+
+- Replace lemon juice with 1/2 lemon, 1/2 lime, for a more round and complex flavor.

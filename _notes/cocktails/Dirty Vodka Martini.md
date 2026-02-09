@@ -1,12 +1,14 @@
 ---
-title: Sparks Dirty Vodka Martini
+title: Dirty Vodka Martini
 source: original
 ---
 
+_A family favorite, not for the weak-stomached or hypertensive._
+
 ## Ingredients
-- 5 parts vodka
-- 2 parts olive brine / juice
-- 1 parts vermouth
+- 2 oz (5 parts) vodka
+- 1 oz (2 parts) olive brine / juice
+- 1/2 oz (1 parts) vermouth
 - large ice cube
 - olives, to taste, as garnish
 

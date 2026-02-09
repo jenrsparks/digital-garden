@@ -1,7 +1,6 @@
 ---
 title: Daiquiri
 source: Death & Co
-links: [[Core Template]]
 ---
 
 ## Ingredients
@@ -20,4 +19,5 @@ _Makes ~4 oz drink_
 
 ## Variants
 
+- Replace line juice with 1/2 lemon, 1/2 lime, for a more mellowed flavor.
 - Add 1/2 oz (2 parts) orange juice for more citrus zing
