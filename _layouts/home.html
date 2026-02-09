@@ -11,11 +11,11 @@
         <side>
           <h3 style="margin-bottom: 1em">Projects</h3>
           <ul>
-            {% assign all_categories = site.notes | map: "category" | uniq %}
-            {% for i in all_categories %}
-            <!-- <li>{{ i }}</li> -->
-              <a class="internal-link" href="{{ site.baseurl }}{{ i | downcase }}">{{ i }}</a>
-
+            {% assign pages = site.pages | uniq | sort:"title" %}
+            {% for i in pages %}
+              {% if i.navigation_include == true %}
+                <li><a class="internal-link" href="{{ site.baseurl }}{{ i.permalink }}">{{ i.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
 

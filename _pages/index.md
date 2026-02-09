@@ -5,10 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome!
 
-Somehow, you have stumbled upon a weird, mess of random content by yours truly. As content progresses, there will be more variety, but for the time being, check out the couple collections on the navigation along the top.
+Somehow, you have stumbled upon a weird mess of random content by yours truly. As content progresses, there will be more variety, but for the time being, check out the couple collections on the navigation along the side.
 
+<div>
 <strong>Recently updated notes</strong>
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -18,3 +19,4 @@ Somehow, you have stumbled upon a weird, mess of random content by yours truly. 
     </li>
   {% endfor %}
 </ul>
+</div>
