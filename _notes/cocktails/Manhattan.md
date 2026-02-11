@@ -1,9 +1,10 @@
 ---
-title: Flip
-source:
+title: Manhattan
+source: pending
+layout: cocktails
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Gin Martini]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

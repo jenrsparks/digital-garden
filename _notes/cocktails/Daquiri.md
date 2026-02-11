@@ -3,6 +3,9 @@ title: Daiquiri
 source: Death & Co
 ---
 
+- **Template:** [[Core Templates|Core Template]]
+- **Recipe Source:** {{ page.source }}
+
 ## Ingredients
 
 _Makes ~4 oz drink_ 

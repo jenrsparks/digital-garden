@@ -1,9 +1,9 @@
 ---
-title: Flip
-source:
+title: Tom Collins
+source: TBD
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Daiquiri]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

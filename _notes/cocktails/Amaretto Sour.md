@@ -3,6 +3,9 @@ title: Amaretto Sour
 source: Death & Co
 ---
 
+- **Template:** [[Daquiri]]
+- **Recipe Source:** {{ page.source }}
+
 _Call me a bad parent if you want, but this was our youngest daughter's first cocktail that she learned to really enjoy. It's a keeper. Pro tip: Don't skimp on good citrus._
 
 ## Ingredients

@@ -1,9 +1,9 @@
 ---
-title: Flip
-source:
+title: Moscow Mule
+source: TBD
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Tom Collins]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Mimosa
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Whiskey Highball]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

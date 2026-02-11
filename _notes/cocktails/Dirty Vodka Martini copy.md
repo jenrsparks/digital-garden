@@ -1,9 +1,9 @@
 ---
-title: Flip
-source:
+title: Vodka Martini
+source: TBD
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Gin Martini]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

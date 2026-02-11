@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: White Russian
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Flip]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

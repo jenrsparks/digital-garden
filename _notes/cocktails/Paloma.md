@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Paloma
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Whiskey Highball]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

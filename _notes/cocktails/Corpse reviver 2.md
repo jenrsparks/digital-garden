@@ -3,7 +3,8 @@ title: "Corpse Reviver #2"
 source: Death & Co
 ---
 
-_Parent template: [[Sidecar]]_
+- **Template:** [[Sidecar]]
+- **Recipe Source:** {{ page.source }}
 
 ## Ingredients
 

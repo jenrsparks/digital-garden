@@ -1,9 +1,10 @@
 ---
-title: Flip
+title: Bloody Mary
 source:
+published: false
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Whiskey Highball]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Jackies Brandy Alexander
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Brandy Alexander]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

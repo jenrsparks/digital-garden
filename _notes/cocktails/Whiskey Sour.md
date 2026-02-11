@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Whiskey Sour
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Daquiri]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Sazerac
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Old Fashioned]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

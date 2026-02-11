@@ -1,9 +1,9 @@
 ---
-title: Flip
-source:
+title: French 75
+source: TBD
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Tom Collins]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Brandy Alexander
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Flip]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

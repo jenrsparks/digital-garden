@@ -1,9 +1,9 @@
 ---
-title: Flip
+title: Cosmopolitan
 source:
 ---
 
-- **Template:** _TBD_
+- **Template:** [[Sidecar]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -8,79 +8,56 @@ exclude_page: true
 ### [[Daquiri|The Daquiri]]
 
 - **Defining characteristics:** Sweetener \| Lime Juice \| Rum
-- **Tasting notes:** Sharp, bright, slightly viscous
+- **Tasting notes:** Sharp, bright, slightly viscous mouthfeel
+
+### [[Flip|The Flip]]
+
+- **Defining characteristics:** Sweetener \| Spice \| Egg \| Sherry
+- **Tasting notes:** _TBD_
+- **Personal notes:** As someone who can't have egg, I miss out on a lot of the mouthfeel on this one, except for the one whiskey sour I got in Dublin where the bartender just _made it happen._
 
 ### [[Gin Martini|The Gin Martini]]
 
 - **Defining characteristics:** Vermouth \| Bitter \| Gin
-- **Tasting notes:** Bitter, smooth, slightly oily
+- **Tasting notes:** Bitter, smooth, slick/oily mouthfeel
 - **Personal notes:** I must confess, I don't have much love of gin, so the traditional martini gets away from me knowledge-wise.
 
 ### [[Old Fashioned|The Old Fashioned]]
 
 - **Defining characteristics:** Sweetener \| Bitters \| Bourbon
-- **Tasting notes:** Sweet, carmel-like stickiness
+- **Tasting notes:** Sweet, boozy, carmel-like stickiness
 
 ### [[Sidecar|The Sidecar]]
 
 - Defining characteristics: Sweetener \| Lemon Juice \| Curaçao \| Cognac
-- **Tasting notes:** 
+- **Tasting notes:** _TBD_
 
 ### [[Whiskey Highball|The Whiskey Highball]]
 
 - **Defining characteristics:** Seltzer \| Whiskey
-- **Tasting notes:** 
-
-### [[Flip|The Flip]]
-
-- **Defining characteristics:** Sweetener \| Spice \| Egg \| Sherry
-- **Tasting notes:** 
+- **Tasting notes:** _TBD_
 
 ---
 
-## Drinks Pending Recipes
+## Drinks Pending Page Creation + Categorization
 
-- [[Sazerac]]
-- [[Brandy Alexander]] as well as [[Jackies Brandy Alexander]]
-- [[Jack Rose]]
 - [[Caipirinha]]
-- [[French 75]]
-- [[Gimlet]]
-- [[Pink Lady]]
-- [[Negroni]]
-- [[Oaxaca old fashioned]]
-- [[Long Island iced tea]] - favorite
-- [[Painkiller]] -- favorite
 - [[Dark & stormy]]
-- [[Zombie]]
-- [[Paloma]]
-- [[Margarita]] -- fave
-- [[Tequila sour]]
-- [[Lemon Drop]]
-- [[Bloody Mary]]
-- [[Screwdriver]]
-- [[Gimlet]]
-- [['normal' vodka martini]]
-- [[White russian]]
 - [[Espresso Martini]]
-- [[Blood & Sand]]
-- [[Boulevardier]]
-- [[Rob Roy]]
-- [[Penicillin]]
-- [[Manhattan]]
-- [[Whiskey sour]]
+- [[Lemon Drop]]
 - [[Lynchburg lemonade]]
-- [[Paper plane]]
-- [[Seven and Seven]]
-- [[Mimosa]]
 - [[Moose milk]]
+- [[Oaxaca old fashioned]]
 - [[Orgasm]]
-- [[B-52]]
-- [[Pisco sour]]
-- [[Tom Collins]]
-- [[Toddy]]
+- [[Painkiller]] -- favorite
+- [[Paper plane]]
+- [[Penicillin]]
+- [[Rob Roy]]
+- [[Seven and Seven]]
+- [[Tequila sour]]
+- [[Zombie]]
 
-## Discovery
+### Discovery
 
 _What are *these*!?_
 
