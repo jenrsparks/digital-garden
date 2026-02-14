@@ -10,7 +10,7 @@ navigation_include: true
 
 The book [Cocktail Codex: Fundamentals, Formulas, Evolutions](https://app.thestorygraph.com/books/4d477c60-4b1a-442d-9f9d-70c6f7cd0c47) by the same authors took me across the line and helped me begin my journey towards exactly that. It's arguably my favorite cocktail book, to the extent that I've gifted copies of it to fellow cocktail enthusiasts. 
 
-Leaning on [Cocktail Codex](https://app.thestorygraph.com/books/4d477c60-4b1a-442d-9f9d-70c6f7cd0c47) model of categorization, I've created an inventory starting with the core templates. Branching off from these are variants, all of which are connected in the Relationship Visualization section in the sidebar. As this inventory expands, I may have some without relationships, though they can still be found in the full index of recipes below.
+Leaning on the [Cocktail Codex](https://app.thestorygraph.com/books/4d477c60-4b1a-442d-9f9d-70c6f7cd0c47) model of categorization, I've created an inventory starting with the core templates. Branching off from these are variants, all of which are connected in the Relationship Visualization section in the sidebar. As this inventory expands, I may have some without relationships, though they can still be found in the full index of recipes below.
 
 ### Core Templates
 
@@ -48,22 +48,15 @@ Leaning on [Cocktail Codex](https://app.thestorygraph.com/books/4d477c60-4b1a-44
 
 ---
 
+<!--
 ## Drinks Pending Page Creation + Categorization
 
-- [[Caipirinha]]
-- [[Espresso Martini]]
-- [[Lemon Drop]]
-- [[Lynchburg lemonade]]
-- [[Moose milk]]
-- [[Oaxaca old fashioned]]
-- [[Orgasm]]
-- [[Painkiller]] -- favorite
-- [[Paper plane]]
-- [[Penicillin]]
-- [[Rob Roy]]
-- [[Seven and Seven]]
-- [[Tequila sour]]
-- [[Zombie]]
+{% assign notes = site.notes | where note, category, "Cocktails" %}
+{% for note in notes %}
+{% if note.source != "TBD" AND note.source is not null%}
+- {{ note.title }}
+{% endif %}
+{% endfor %}
 
 ### Discovery
 
@@ -72,3 +65,4 @@ _What are *these*!?_
 - [[Daisy]] -- e.g., Brandy Daisy, Whiskey Daisy, Bourbon Daisy, Gin Daisy, Rum Daisy, Lemon Daisy (the non-alcoholic variant), Portuguese Daisy (port and brandy), vodka daisy, and Champagne daisy
 - [[Shrub]]
 - [[Smash]]
+-->
