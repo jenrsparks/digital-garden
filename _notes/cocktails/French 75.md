@@ -3,7 +3,7 @@ title: French 75
 source: TBD
 ---
 
-- **Template:** [[Tom Collins]]
+- **Parent:** [[Tom Collins]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

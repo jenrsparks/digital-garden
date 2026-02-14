@@ -3,7 +3,7 @@ title: Sazerac
 source:
 ---
 
-- **Template:** [[Old Fashioned]]
+- **Parent:** [[Old Fashioned]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

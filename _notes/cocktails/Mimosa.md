@@ -3,7 +3,7 @@ title: Mimosa
 source:
 ---
 
-- **Template:** [[Whiskey Highball]]
+- **Parent:** [[Whiskey Highball]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

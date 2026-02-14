@@ -3,7 +3,7 @@ title: White Russian
 source:
 ---
 
-- **Template:** [[Flip]]
+- **Parent:** [[Flip]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

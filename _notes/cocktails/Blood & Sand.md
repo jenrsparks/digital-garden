@@ -3,7 +3,7 @@ title: Blood & Sand
 source:
 ---
 
-- **Template:** [[Sidecar]]
+- **Parent:** [[Sidecar]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

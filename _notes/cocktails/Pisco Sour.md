@@ -3,7 +3,7 @@ title: Pisco Sour
 source: TBD
 ---
 
-- **Template:** [[Daiquiri]]
+- **Parent:** [[Daiquiri]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

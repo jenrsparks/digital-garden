@@ -3,7 +3,7 @@ title: Vodka Martini
 source: TBD
 ---
 
-- **Template:** [[Gin Martini]]
+- **Parent:** [[Gin Martini]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -4,7 +4,7 @@ source: pending
 layout: cocktails
 ---
 
-- **Template:** [[Gin Martini]]
+- **Parent:** [[Gin Martini]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

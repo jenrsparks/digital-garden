@@ -3,17 +3,29 @@ title: Amaretto Sour
 source: Death & Co
 ---
 
-- **Template:** [[Daquiri]]
+- **Parent:** [[Daiquiri]]
 - **Recipe Source:** {{ page.source }}
 
 _Call me a bad parent if you want, but this was our youngest daughter's first cocktail that she learned to really enjoy. It's a keeper. Pro tip: Don't skimp on good citrus._
 
 ## Ingredients
-- 2 ounces amaretto
-- 1 ounce fresh lemon juice
-- 1/4 ounce simple (1:1) syrup
+
+### Single Serving
+
+- 2 oz amaretto
+- 1 oz fresh lemon juice
+- 1/4 oz simple (1:1) syrup
 - 1 dash Angostura bitters 
 - Garnish: brandied cherry
+
+### Batch Size
+
+If you have a group, or just want to prep to have some on hand, this will make 6 servings:
+
+- 12 oz Lazzaroni amaretto
+- 6 oz fresh lemon juice
+- 1 1/2 oz simple syrup (page 45) 
+- 6 dashs Angostura bitters 
 
 ## Instructions
 1. Shake all the ingredients with ice.

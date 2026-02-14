@@ -3,7 +3,7 @@ title: Whiskey Sour
 source:
 ---
 
-- **Template:** [[Daquiri]]
+- **Parent:** [[Daiquiri]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

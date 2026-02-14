@@ -4,7 +4,7 @@ source: pending
 layout: cocktails
 ---
 
-- **Template:** [[Negroni]]
+- **Parent:** [[Negroni]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

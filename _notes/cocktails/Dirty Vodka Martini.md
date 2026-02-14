@@ -3,7 +3,7 @@ title: Dirty Vodka Martini
 source: original
 ---
 
-- **Template:** [[Vodka Martini]]
+- **Parent:** [[Vodka Martini]]
 - **Recipe Source:** {{ page.source }}
 
 _A family favorite, not for the weak-stomached or hypertensive._

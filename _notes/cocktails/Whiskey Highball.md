@@ -3,7 +3,7 @@ title: Whiskey Highball
 source:
 ---
 
-- **Template:** [[Core Templates|Core Template]]
+- **Parent:** [[Cocktails|Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

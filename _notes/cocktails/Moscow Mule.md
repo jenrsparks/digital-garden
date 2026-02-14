@@ -3,7 +3,7 @@ title: Moscow Mule
 source: TBD
 ---
 
-- **Template:** [[Tom Collins]]
+- **Parent:** [[Tom Collins]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

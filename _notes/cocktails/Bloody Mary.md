@@ -4,7 +4,7 @@ source:
 published: false
 ---
 
-- **Template:** [[Whiskey Highball]]
+- **Parent:** [[Whiskey Highball]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

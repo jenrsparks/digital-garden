@@ -3,7 +3,7 @@ title: Gimlet
 source: TBD
 ---
 
-- **Template:** [[Daiquiri]]
+- **Parent:** [[Daiquiri]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients
