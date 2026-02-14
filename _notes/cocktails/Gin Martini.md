@@ -1,7 +1,6 @@
 ---
 title: Gin Martini
 source: pending
-layout: cocktails
 ---
 
 - **Parent:** [[Cocktails|Core Template]]

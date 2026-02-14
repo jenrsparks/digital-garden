@@ -1,7 +1,6 @@
 ---
 title: Manhattan
 source: pending
-layout: cocktails
 ---
 
 - **Parent:** [[Gin Martini]]

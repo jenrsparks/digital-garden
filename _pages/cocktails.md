@@ -6,7 +6,7 @@ category: Cocktails
 navigation_include: true
 ---
 
-[Death & Co: Modern Classic Cocktails](https://app.thestorygraph.com/books/cc495afc-eaa6-46f4-a182-24551b3434e4) was my first cocktail book, and I've poured over it a dozen times to try to internalize the core concepts. Where I struggled, though, was that it felt as though I needed the right brand of a given liquor, and 20-30 different bottles to be able to make many of the drinks. Instead, I wanted to be able to take what was in my cabinet, riff something together, and understand what I was doing.
+[Death & Co: Modern Classic Cocktails](https://app.thestorygraph.com/books/cc495afc-eaa6-46f4-a182-24551b3434e4) was my first cocktail book, and I've poured over it a dozen times to try to internalize the core concepts. Where I struggled, though, was that it felt as if I needed the right brand of a given liquor, which meant getting 20-30 different bottles to be able to make the drinks I was after. Instead, I wanted to be able to take what was in my cabinet, riff something together, and understand what I was doing.
 
 The book [Cocktail Codex: Fundamentals, Formulas, Evolutions](https://app.thestorygraph.com/books/4d477c60-4b1a-442d-9f9d-70c6f7cd0c47) by the same authors took me across the line and helped me begin my journey towards exactly that. It's arguably my favorite cocktail book, to the extent that I've gifted copies of it to fellow cocktail enthusiasts. 
 
@@ -23,7 +23,7 @@ Leaning on [Cocktail Codex](https://app.thestorygraph.com/books/4d477c60-4b1a-44
 
 - **Defining characteristics:** Sweetener \| Spice \| Egg \| Sherry
 - **Tasting notes:** _TBD_
-- **Personal notes:** As someone who can't have egg, I miss out on a lot of the mouthfeel on this one, except for the one whiskey sour I got in Dublin where the bartender just _made it happen._
+- **Personal notes:** As someone who can't have egg, I miss out on a lot of the mouthfeel on this one, except for the one whiskey sour I got in Dublin where the bartender just _made it happen_ by, and I quote, "shaking the fuck out of it."
 
 ### [[Gin Martini|The Gin Martini]]
 

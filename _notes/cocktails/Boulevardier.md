@@ -1,7 +1,6 @@
 ---
 title: Boulevardier
 source: pending
-layout: cocktails
 ---
 
 - **Parent:** [[Negroni]]

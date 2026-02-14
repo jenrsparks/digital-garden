@@ -1,7 +1,6 @@
 ---
 title: Negroni
 source: pending
-layout: cocktails
 ---
 
 - **Parent:** [[Gin Martini]]
