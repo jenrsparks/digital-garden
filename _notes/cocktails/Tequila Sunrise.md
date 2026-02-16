@@ -1,6 +1,7 @@
 ---
 title: Tequila Sunrise
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Whiskey Highball]]

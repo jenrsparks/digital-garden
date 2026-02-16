@@ -4,7 +4,7 @@ source: The Takeout
 source_link: https://thetakeout.com/the-painkiller-is-your-new-summer-drink-1849017405
 ---
 
-- **Parent:** [[Daiqairi]]
+- **Parent:** [[Daiquiri]]
 - **Recipe Source:** <a href="{{ source_link }}">{{ page.source }}</a>
 
 _I'm not sure a single person in my house likes coconut, so the coconut cream has been swapped for the richest milk we can find at the time. It might lose some of its creaminess compared to the coconut milk, but it's worth it to avoid the crinkled noses at the taste of coconut._

@@ -1,10 +1,10 @@
 ---
-title: Moscow Mule
+title: Moose Milk
 source: Atlas Obscura
 source_link: https://www.atlasobscura.com/articles/what-is-moose-milk-canadian-holiday-cocktail
 ---
 
-- **Parent:** [[Brandy Alexander]] (or maybe [[Eggnog]]?)
+- **Parent:** [[Brandy Alexander]]
 - **Recipe Source:** <a href="{{ source_link }}">{{ page.source }}</a>
 
 _I should probably point out that the original recipe from {{ source }} says "and/or" for the liquor, but I really like using all three at the specified ratios, so we just go in. It seems to fit the spirit of the original recipe anyway._

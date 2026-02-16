@@ -3,7 +3,7 @@ title: Sidecar
 source:
 ---
 
-- **Parent:** [[Cocktails|Core Template]]
+- **Parent:** [[Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

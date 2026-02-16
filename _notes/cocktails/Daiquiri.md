@@ -3,7 +3,7 @@ title: Daiquiri
 source: Death & Co
 ---
 
-- **Parent:** [[Cocktails|Core Template]]
+- **Parent:** [[Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

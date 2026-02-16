@@ -1,6 +1,7 @@
 ---
 title: Screwdriver
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Whiskey Highball]]

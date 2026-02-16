@@ -1,9 +1,10 @@
 ---
 title: Flip
 source:
+placeholder: true
 ---
 
-- **Parent:** _TBD_
+- **Parent:** [[Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,6 +1,8 @@
 ---
 title: Lynchburg Lemonade
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

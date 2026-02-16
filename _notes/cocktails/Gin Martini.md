@@ -1,9 +1,10 @@
 ---
 title: Gin Martini
 source: pending
+placeholder: true
 ---
 
-- **Parent:** [[Cocktails|Core Template]]
+- **Parent:** [[Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,6 +1,8 @@
 ---
 title: Rob Roy
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

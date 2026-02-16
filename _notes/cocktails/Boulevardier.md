@@ -1,6 +1,7 @@
 ---
 title: Boulevardier
 source: pending
+placeholder: true
 ---
 
 - **Parent:** [[Negroni]]

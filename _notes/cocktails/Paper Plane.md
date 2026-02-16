@@ -1,6 +1,8 @@
 ---
 title: Paper Plane
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

@@ -1,6 +1,7 @@
 ---
 title: Whiskey Sour
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Daiquiri]]

@@ -1,6 +1,8 @@
 ---
 title: Zombie
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

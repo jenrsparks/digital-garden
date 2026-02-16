@@ -1,6 +1,8 @@
 ---
 title: Lemon Drop
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

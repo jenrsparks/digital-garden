@@ -1,6 +1,8 @@
 ---
 title: Seven and Seven
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

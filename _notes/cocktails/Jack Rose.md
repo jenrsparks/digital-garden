@@ -1,6 +1,7 @@
 ---
 title: Jack Rose
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Daiquiri]]

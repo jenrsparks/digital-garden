@@ -1,6 +1,7 @@
 ---
 title: Tom Collins
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Daiquiri]]

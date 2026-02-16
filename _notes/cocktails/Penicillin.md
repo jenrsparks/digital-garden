@@ -1,6 +1,8 @@
 ---
 title: Penicillin
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

@@ -1,6 +1,7 @@
 ---
 title: Manhattan
 source: pending
+placeholder: true
 ---
 
 - **Parent:** [[Gin Martini]]

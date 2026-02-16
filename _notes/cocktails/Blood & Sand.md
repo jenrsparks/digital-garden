@@ -1,6 +1,7 @@
 ---
 title: Blood & Sand
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Sidecar]]

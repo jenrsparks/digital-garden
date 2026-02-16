@@ -1,6 +1,7 @@
 ---
 title: Moscow Mule
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Tom Collins]]

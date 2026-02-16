@@ -1,6 +1,8 @@
 ---
 title: Tequila Sour
 source: TBD
+placeholder: true
+published: false
 ---
 
 - **Parent:** TBD

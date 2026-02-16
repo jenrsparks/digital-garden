@@ -1,6 +1,7 @@
 ---
 title: Sazerac
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Old Fashioned]]

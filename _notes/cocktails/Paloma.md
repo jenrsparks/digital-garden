@@ -1,6 +1,7 @@
 ---
 title: Paloma
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Whiskey Highball]]

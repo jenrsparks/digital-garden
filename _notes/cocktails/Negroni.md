@@ -1,6 +1,7 @@
 ---
 title: Negroni
 source: pending
+placeholder: true
 ---
 
 - **Parent:** [[Gin Martini]]

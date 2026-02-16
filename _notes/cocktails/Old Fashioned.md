@@ -1,9 +1,10 @@
 ---
 title: Old Fashioned
 source:
+placeholder: true
 ---
 
-- **Parent:** [[Cocktails|Core Template]]
+- **Parent:** [[Core Template]]
 - **Recipe Source:** {{ page.source }}
 
 ## Ingredients

@@ -1,6 +1,7 @@
 ---
 title: Pisco Sour
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Daiquiri]]

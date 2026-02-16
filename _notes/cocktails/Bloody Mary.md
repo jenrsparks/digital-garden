@@ -1,7 +1,7 @@
 ---
 title: Bloody Mary
 source:
-published: false
+placeholder: true
 ---
 
 - **Parent:** [[Whiskey Highball]]

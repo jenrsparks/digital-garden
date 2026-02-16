@@ -1,6 +1,7 @@
 ---
 title: White Russian
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Flip]]

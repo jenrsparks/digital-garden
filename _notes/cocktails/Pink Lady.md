@@ -1,6 +1,7 @@
 ---
 title: Pink Lady
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Daiquiri]]

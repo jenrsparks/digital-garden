@@ -1,6 +1,7 @@
 ---
 title: Brandy Alexander
 source:
+placeholder: true
 ---
 
 - **Parent:** [[Flip]]

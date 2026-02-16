@@ -4,7 +4,7 @@ source: Difford's Guide
 source_link: https://www.diffordsguide.com/cocktails/recipe/2747/screaming-orgasm
 ---
 
-- **Parent:** TBD
+- **Parent:** [[Brandy Alexander]]
 - **Recipe Source:** {{ page.source }}
 
 _I'm not sure how you find a recipe with this name on a website with a tagline of "for discerning drinkers," but here we are, I suppose. I cringe at the name, and anytime I go to make it, I sense myself regressing to the twenty-somethings at the bar giggling to the bar tender._

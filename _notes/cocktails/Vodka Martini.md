@@ -1,6 +1,7 @@
 ---
 title: Vodka Martini
 source: TBD
+placeholder: true
 ---
 
 - **Parent:** [[Gin Martini]]
