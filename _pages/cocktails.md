@@ -3,8 +3,11 @@ title: Cocktails
 id: Cocktails
 permalink: /cocktails
 category: Cocktails
+layout: default
 navigation_include: true
 ---
+
+# {{ page.title }}
 
 [Death & Co: Modern Classic Cocktails](https://app.thestorygraph.com/books/cc495afc-eaa6-46f4-a182-24551b3434e4) was my first cocktail book, and I've poured over it a dozen times to try to internalize the core concepts. Where I struggled, though, was that it felt as if I needed the right brand of a given liquor, which meant getting 20-30 different bottles to be able to make the drinks I was after. Instead, I wanted to be able to take what was in my cabinet, riff something together, and understand what I was doing.
 
@@ -48,21 +51,21 @@ Leaning on the [Cocktail Codex](https://app.thestorygraph.com/books/4d477c60-4b1
 
 ---
 
-<!--
-## Drinks Pending Page Creation + Categorization
+## The Collection
 
-{% assign notes = site.notes | where note, category, "Cocktails" %}
+The below graph will take you to any of the recipes directly, as well ase show you the relationships across them. Go explore!
+
+{% capture category_value %}{{ page.category }}{% endcapture %}
+{% include notes_graph.html category=category_value center_note='Core Template' height_modifier=0.7 %}
+
+## Drinks Pending Recipes
+
+{% assign notes = site.notes %}
+<ul>
 {% for note in notes %}
-{% if note.source != "TBD" AND note.source is not null%}
-- {{ note.title }}
+{% if note.placeholder == true %}
+<li><a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
+                {{ note.title }}</a></li>
 {% endif %}
 {% endfor %}
-
-### Discovery
-
-_What are *these*!?_
-
-- [[Daisy]] -- e.g., Brandy Daisy, Whiskey Daisy, Bourbon Daisy, Gin Daisy, Rum Daisy, Lemon Daisy (the non-alcoholic variant), Portuguese Daisy (port and brandy), vodka daisy, and Champagne daisy
-- [[Shrub]]
-- [[Smash]]
--->
+</ul>

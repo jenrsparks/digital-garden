@@ -22,6 +22,20 @@
     fill: black;
   }
 
+  .nodes [placeholder],
+  .text [placeholder] {
+    fill: hsl(210, 22%, 78%);
+    cursor: not-allowed;
+  }
+
+  .nodes [center],
+  .text [center] {
+    fill: hsl(306, 22%, 58%);
+    text-decoration: italic;
+    cursor: pointer;
+  }
+
+
   .inactive {
     opacity: 0.1;
     transition: all 0.15s ease-out;
@@ -98,7 +112,9 @@
         };
 
         const onClick = (d) => {
+          if(d.placeholder != true) {
           window.location = d.path
+          }
         };
 
         const onMouseover = function (d) {
@@ -184,15 +200,22 @@
           return true;
         };
 
+        {% if include.height_modifier %}
+        let heightModifier = '{{ include.height_modifier }}';
+        {% else %}
+        let heightModifier = 0.3;
+        {% endif %}
+
+
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-        element.setAttribute("height", window.innerHeight * 0.3);
+        element.setAttribute("height", window.innerHeight * heightModifier);
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
           element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight * 0.3);
+          element.setAttribute("height", window.innerHeight * heightModifier);
         };
 
         window.onresize = reportWindowSize;
@@ -293,7 +316,20 @@
 
           node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
           text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          node.attr("placeholder", (d) => d.placeholder ? true : null);
+          text.attr("placeholder", (d) => d.placeholder ? true : null);
+          node.attr("center", (d) => d.label == '{{ include.center_note }}' ? true : null);
+          text.attr("center", (d) => d.label == '{{ include.center_note }}' ? true : null);
 
+          {% if include.center_note %}
+            const centerNode = nodesData.find(d => d.label == '{{ include.center_note }}');
+            if(centerNode) {
+              console.log("located for focus: " + centerNode.label);
+              centerNode.fx = width / 2;
+              centerNode.fy = height / 2;
+            }
+          {% endif %}
+          
           simulation.nodes(nodesData);
           simulation.force("link").links(linksData);
           simulation.alpha(1).restart();
