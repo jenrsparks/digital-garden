@@ -1,5 +1,5 @@
 ---
-title: Mexican Margarita
+title: Mexican Martini
 source: New York Times Cooking
 source_link: https://cooking.nytimes.com/recipes/1013696-mexican-martini
 ---
